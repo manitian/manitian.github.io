@@ -366,6 +366,9 @@ footer p {
     .search-faq {
         padding-bottom: 15px;
     }
+    .faq {
+        width: 95%;
+    }
 }
     
 @media(min-width: 992px) {
