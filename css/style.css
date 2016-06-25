@@ -183,7 +183,7 @@ a {
 }
  
 .faq-section:last-child .faq-section-title {
-    border-bottom:none;
+/*    border-bottom:none;*/
 }
  
 .faq-content {
